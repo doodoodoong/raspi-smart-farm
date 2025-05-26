@@ -39,8 +39,8 @@ spi.open(0,0)
 spi.max_speed_hz = 1000000
 
 moisture=0
-moisture_set_start=75
-moisture_set_stop=78
+moisture_set_start=50
+moisture_set_stop=65
 
 temperature=0
 humidity=0
